@@ -11,5 +11,6 @@
     This file was created on 2024-09-10 10:57:03 UTC by eScriptorium version 0.13.8
     Transcription model used: print_transcription_NEW
     Average transcription confidence: 0.9714378229375835
+    Missing pages: 204-205 (or: 202-203), 238-239.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: UNCORRECTED_OCR
+90#VERS#ISSUES###: UNCORRECTED_OCR, MISSING_PAGES
